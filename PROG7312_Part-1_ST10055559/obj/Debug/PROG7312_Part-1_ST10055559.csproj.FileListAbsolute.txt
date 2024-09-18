@@ -1,0 +1,11 @@
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\bin\Debug\PROG7312_Part-1_ST10055559.exe.config
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\bin\Debug\PROG7312_Part-1_ST10055559.exe
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\bin\Debug\PROG7312_Part-1_ST10055559.pdb
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part-1_ST10055559.csproj.AssemblyReference.cache
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part_1_ST10055559.Properties.Resources.resources
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part_1_ST10055559.Report_Form.resources
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part-1_ST10055559.csproj.GenerateResource.cache
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part-1_ST10055559.csproj.CoreCompileInputs.cache
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part-1_ST10055559.exe
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part-1_ST10055559.pdb
+C:\Users\renie\source\repos\PROG7312_Part-1_ST10055559\PROG7312_Part-1_ST10055559\obj\Debug\PROG7312_Part_1_ST10055559.Main_Form.resources

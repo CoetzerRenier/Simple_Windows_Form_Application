@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\prog7312_part-1_st10055559\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|solutionrelative:prog7312_part-1_st10055559\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\prog7312_part-1_st10055559\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|solutionrelative:prog7312_part-1_st10055559\\report_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\prog7312_part-1_st10055559\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|solutionrelative:prog7312_part-1_st10055559\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|c:\\users\\renie\\source\\repos\\prog7312_part-1_st10055559\\prog7312_part-1_st10055559\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{624E1667-439F-4244-A52C-6AB011FB6723}|PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559.csproj|solutionrelative:prog7312_part-1_st10055559\\main_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Main_Form.cs",
+              "RelativeDocumentMoniker": "PROG7312_Part-1_ST10055559\\Main_Form.cs",
+              "ToolTip": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Main_Form.cs [Design]",
+              "RelativeToolTip": "PROG7312_Part-1_ST10055559\\Main_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:01:12.623Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main_Form.cs",
+              "DocumentMoniker": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Main_Form.cs",
+              "RelativeDocumentMoniker": "PROG7312_Part-1_ST10055559\\Main_Form.cs",
+              "ToolTip": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Main_Form.cs",
+              "RelativeToolTip": "PROG7312_Part-1_ST10055559\\Main_Form.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:51:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Report_Form.cs",
+              "RelativeDocumentMoniker": "PROG7312_Part-1_ST10055559\\Report_Form.cs",
+              "ToolTip": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Report_Form.cs [Design]",
+              "RelativeToolTip": "PROG7312_Part-1_ST10055559\\Report_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:39:57.399Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report_Form.cs",
+              "DocumentMoniker": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Report_Form.cs",
+              "RelativeDocumentMoniker": "PROG7312_Part-1_ST10055559\\Report_Form.cs",
+              "ToolTip": "C:\\Users\\renie\\source\\repos\\PROG7312_Part-1_ST10055559\\PROG7312_Part-1_ST10055559\\Report_Form.cs",
+              "RelativeToolTip": "PROG7312_Part-1_ST10055559\\Report_Form.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:48:36.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
